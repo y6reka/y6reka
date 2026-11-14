@@ -1,4 +1,4 @@
-<img width="900" height="900" alt="7324-kazuha (1)" src="https://github.com/user-attachments/assets/83e1e170-cf32-4a0f-b83b-dfc8126bce0d" />
+<img width="1280" height="640" alt="7324-kazuha (1)" src="https://github.com/user-attachments/assets/83e1e170-cf32-4a0f-b83b-dfc8126bce0d" />
 
 <h1 align="center">Hi 👋, I'm eka</h1>
 <h3 align="center">### Hello there! 👋 > whoami Eka Dharma Vidhiatmika Computer Systems Engineering Student @ ULM > skills --list - Languages : C, Python - Hardware : Arduino, Sensors, Circuits - Tools : VS Code, Git, PowerShell > status --current Coding, debugging, and playing games!</h3>
